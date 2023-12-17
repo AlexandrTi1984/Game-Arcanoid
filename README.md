@@ -14,7 +14,7 @@ pip install pgzero
     
 ## Screenshots
 
-![App Screenshot](screenshot/pic.gif)
+![App Screenshot](screenshot/pic1.gif)
 
 
 
