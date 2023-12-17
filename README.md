@@ -12,7 +12,7 @@ Children's game Arkanoid written using "pgzero".
 pip install pgzero
 ```
     
-## Screenshots
+## Screenshots / Video
 
 ![App Screenshot](screenshot/pic1.gif)
 
